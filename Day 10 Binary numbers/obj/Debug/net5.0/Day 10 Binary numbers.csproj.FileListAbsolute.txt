@@ -1,0 +1,16 @@
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\bin\Debug\net5.0\Day 10 Binary numbers.exe
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\bin\Debug\net5.0\Day 10 Binary numbers.deps.json
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\bin\Debug\net5.0\Day 10 Binary numbers.runtimeconfig.json
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\bin\Debug\net5.0\Day 10 Binary numbers.runtimeconfig.dev.json
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\bin\Debug\net5.0\Day 10 Binary numbers.dll
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\bin\Debug\net5.0\Day 10 Binary numbers.pdb
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\obj\Debug\net5.0\Day 10 Binary numbers.csproj.AssemblyReference.cache
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\obj\Debug\net5.0\Day 10 Binary numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\obj\Debug\net5.0\Day 10 Binary numbers.AssemblyInfoInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\obj\Debug\net5.0\Day 10 Binary numbers.AssemblyInfo.cs
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\obj\Debug\net5.0\Day 10 Binary numbers.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\obj\Debug\net5.0\Day 10 Binary numbers.dll
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\obj\Debug\net5.0\refint\Day 10 Binary numbers.dll
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\obj\Debug\net5.0\Day 10 Binary numbers.pdb
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\obj\Debug\net5.0\Day 10 Binary numbers.genruntimeconfig.cache
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 10 Binary numbers\Day 10 Binary numbers\obj\Debug\net5.0\ref\Day 10 Binary numbers.dll
